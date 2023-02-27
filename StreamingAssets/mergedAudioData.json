@@ -1,0 +1,5484 @@
+{
+    "Honda": [
+        {
+            "TimeStamp": 15.381315231323243,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.66131591796875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 20.266643524169923,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 20.970657348632814,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.186643600463868,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 23.786643981933595,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.44265365600586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.253311157226564,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.98398971557617,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.095985412597659,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.36532974243164,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.5146484375,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.4319953918457,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.709320068359378,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.98664474487305,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.28532791137695,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.60532760620117,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.159976959228519,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.330657958984378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.52265167236328,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.88533020019531,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.29065704345703,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.015987396240237,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.16532897949219,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.44265365600586,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.9973258972168,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.1893196105957,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.234649658203128,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.44798278808594,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.30131530761719,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.5146484375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.855987548828128,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.15464782714844,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.00798034667969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.34931945800781,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.797325134277347,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.159976959228519,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.951995849609378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.1039924621582,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.29598617553711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.14931869506836,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.34131622314453,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.554649353027347,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.7039909362793,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.00265121459961,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.30131530761719,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.877323150634769,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.06932067871094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.2399787902832,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.645328521728519,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.98664474487305,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.73331069946289,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.882652282714847,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.159976959228519,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.69330978393555,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.90664291381836,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.951995849609378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.16532897949219,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.9973258972168,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.338661193847659,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.57331085205078,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.85065841674805,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.72532653808594,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.87464904785156,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.10932159423828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.4933090209961,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.66931915283203,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 68.9493179321289,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.86664581298828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.03732299804688,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.2933120727539,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.71997833251953,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.08265686035156,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.6159896850586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.36265563964844,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.68265533447266,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.4293212890625,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.28265380859375,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.49598693847656,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.66931915283203,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.96797943115235,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.71464538574219,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.90664672851563,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.29065704345703,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.56798553466797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.93065643310547,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.4426498413086,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.63465118408203,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 79.21065521240235,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 79.65866088867188,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 81.04532623291016,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 81.38664245605469,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.66664123535156,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.58399200439453,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.81866455078125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.01065826416016,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.18131256103516,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.43732452392578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.7359848022461,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.29065704345703,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.46131896972656,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.67465209960938,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.0799789428711,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.16798400878906,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.9999771118164,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 88.21331024169922,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.38664245605469,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.57865905761719,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.43199920654297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.58131408691406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.79464721679688,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 91.28533172607422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 91.64797973632813,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.15998077392578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.33065795898438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.927978515625,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 93.33331298828125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 94.84798431396485,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 95.10398864746094,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 96.36265563964844,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 97.85598754882813,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 98.49598693847656,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 99.79732513427735,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 101.29065704345703,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 101.69598388671875,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 101.93065643310547,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 102.54931640625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 103.18932342529297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 103.48798370361328,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 104.57598876953125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 105.13066101074219,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 105.36532592773438,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 106.64533233642578,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 107.83998107910156,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 108.13866424560547,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 108.5653305053711,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 108.79998016357422,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        }
+    ],
+
+    "invincble": [
+        {
+            "TimeStamp": 6.186644077301025,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.378662109375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.429319381713868,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.645328521728516,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.794648170471192,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.181315422058106,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.373311042785645,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.274648666381836,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.530657768249512,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.66131591796875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 18.069320678710939,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 18.23997688293457,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 19.221315383911134,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.055986404418947,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.333311080932618,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.57065773010254,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.78399085998535,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.97598648071289,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 23.722652435302736,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.06399154663086,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.2559871673584,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.46932029724121,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.215986251831056,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.07199478149414,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.391996383666993,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.22399139404297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.56532859802246,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.799978256225587,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.970657348632814,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.05866241455078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.25065803527832,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.421314239501954,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.591995239257814,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.5519962310791,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.978662490844728,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.7253303527832,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.06664276123047,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.4293212890625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.55997848510742,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.773311614990237,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.562652587890628,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.73331069946289,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.05331039428711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.22399139404297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.415985107421878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.58664321899414,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.22664260864258,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.5679817199707,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.73866271972656,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.97331237792969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.06131362915039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.29598617553711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.466644287109378,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.76532745361328,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.21331024169922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.554649353027347,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.7893180847168,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.06932067871094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.21866226196289,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.474647521972659,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.90131378173828,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.07199478149414,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.562652587890628,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.05598449707031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.247982025146487,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.503990173339847,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.99464797973633,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.22932052612305,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.570655822753909,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.783992767333987,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.97598648071289,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.338661193847659,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.53065872192383,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.722652435302737,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.04265213012695,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.29866027832031,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.46931838989258,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.74664306640625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.95997619628906,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.55732345581055,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.53866195678711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.07199478149414,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.477325439453128,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.66931915283203,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.565330505371097,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.82131576538086,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.97065734863281,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.31199645996094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.717323303222659,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.05866241455078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.22932052612305,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.378662109375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.57331085205078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.95732498168945,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.7253303527832,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.06664276123047,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.4293212890625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.21866226196289,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.55997848510742,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.81598663330078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.71199417114258,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.05331039428711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.22399139404297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.37331008911133,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.22664260864258,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.5679817199707,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.951995849609378,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.71997833251953,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.06131362915039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.29598617553711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.466644287109378,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.55464935302735,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.98131561279297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.06932067871094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.21865844726563,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.38932037353516,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.58131408691406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.1999740600586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.56265258789063,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.96797943115235,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.05598449707031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.33331298828125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.50399017333985,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.65331268310547,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.5706558227539,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.76264953613281,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.97598266601563,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.46664428710938,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.72265625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.0639877319336,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.21331024169922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.38398742675781,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.21598815917969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.55732727050781,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.96265411376953,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.73065948486328,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.0719985961914,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.39199829101563,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.5653305053711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.79998016357422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        }
+    ],
+
+    "PlayPauseStop": [
+        {
+            "TimeStamp": 0.5333106517791748,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 1.7706575393676758,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 1.8773242235183716,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 2.517324209213257,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 2.9866440296173097,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 3.093310594558716,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 4.202652931213379,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 4.970657825469971,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.439977169036865,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.54664421081543,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.655986309051514,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.423990726470947,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.893310546875,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.999977111816406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.109319686889649,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.215986251831055,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.855986595153809,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.325328826904297,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 11.562652587890625,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 11.669320106506348,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.309319496154786,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.778661727905274,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.015986442565918,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.122653007507325,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.762653350830079,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.231995582580567,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.338662147521973,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.447982788085939,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.215986251831056,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.68532943725586,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.791996002197267,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 18.901315689086915,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 19.647981643676759,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 20.138662338256837,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 20.245328903198243,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.35464859008789,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.461315155029298,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.101314544677736,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 22.57065773010254,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 23.807981491088868,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 23.914648056030275,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.319976806640626,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.554649353027345,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.767982482910158,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.04532814025879,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.557323455810548,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.791996002197267,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.36798095703125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.19997787475586,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.5839900970459,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.35199546813965,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.311994552612306,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.461315155029298,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.037324905395509,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.210657119750978,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.615985870361329,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.999977111816408,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.490657806396487,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.343990325927737,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.621315002441409,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.706642150878909,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.21866226196289,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.474647521972659,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.17866134643555,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.64798355102539,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.159976959228519,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.31199645996094,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.73866271972656,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.12265396118164,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.613311767578128,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.1039924621582,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.82931900024414,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.59732437133789,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.45065689086914,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.77065658569336,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.28265380859375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.43465042114258,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.010658264160159,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.24532699584961,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.735984802246097,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.951995849609378,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 48.405330657958987,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.85866165161133,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.074649810791019,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.52798080444336,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.402652740478519,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.87199401855469,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.490657806396487,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.98131561279297,
+            "low": 1,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.98131561279297,
+            "low": 1,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.197322845458987,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.650657653808597,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.23199462890625,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        }
+    ],
+
+    "comingForYah": [
+        {
+            "TimeStamp": 1.9504761695861817,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 2.321995496749878,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 3.1346938610076906,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 3.8545124530792238,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 4.2028117179870609,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.758548736572266,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.524807453155518,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.198185920715332,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.662585258483887,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.080544471740723,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.684263229370118,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.102222442626954,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.566621780395508,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.054240226745606,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.51863956451416,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.727619171142579,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 11.517097473144532,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 11.888616561889649,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.236916542053223,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.422676086425782,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.72453498840332,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.956734657287598,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 13.235374450683594,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 13.490793228149414,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.349931716918946,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.558911323547364,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 14.83755111694336,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.394829750061036,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 15.69668960571289,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.509387969970704,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.741586685180665,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.18276596069336,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.925804138183595,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 20.851518630981447,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.03727912902832,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 21.733877182006837,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 23.289613723754884,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 24.798912048339845,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.332969665527345,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 25.611610412597658,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.029569625854493,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.261768341064454,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.70294761657715,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.120906829833986,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.887165069580079,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.18902587890625,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.46766471862793,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.72308349609375,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.141042709350587,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.32680320739746,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.489341735839845,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.698322296142579,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.93052101135254,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.627120971679689,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.952199935913087,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.46303939819336,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.95065689086914,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.43827819824219,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.90267562866211,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.1348762512207,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.41351318359375,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.85469436645508,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.34231185913086,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.71383285522461,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.433650970458987,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.57297134399414,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.758731842041019,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.269569396972659,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.73396682739258,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.221588134765628,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.45378494262695,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.66276550292969,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.22004699707031,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.52190399169922,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.218502044677737,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.40426254272461,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.566802978515628,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.124080657958987,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.68136215209961,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.84389877319336,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.006439208984378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.26185989379883,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.47084045410156,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.958457946777347,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.329978942871097,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.98013687133789,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.189117431640628,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.46775436401367,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.908935546875,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.5590934753418,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.95383071899414,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.41823196411133,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.81296920776367,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.18449020385742,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.71854782104492,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.18294906616211,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.74022674560547,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.365623474121097,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 49.57460403442383,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.66593933105469,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.03746032714844,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.24489974975586,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.38267517089844,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.847076416015628,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.334693908691409,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.79909133911133,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.097869873046878,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.86412811279297,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.04988479614258,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.20934295654297,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.765079498291019,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.92607879638672,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.66911697387695,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.79918670654297,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.56544494628906,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        }
+
+    ],
+
+    "cyberCity": [
+        {
+            "TimeStamp": 5.375986576080322,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.54664421081543,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.695986270904541,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 5.930657386779785,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.079977512359619,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.293310642242432,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.463991165161133,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.655986309051514,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 6.869319915771484,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.039977550506592,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.189319610595703,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.50931978225708,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 7.8506574630737309,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.085329055786133,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.319977760314942,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.490657806396485,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.661314964294434,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 8.831995010375977,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.066643714904786,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.237324714660645,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.407981872558594,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.578661918640137,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.749320030212403,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 9.919977188110352,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.154648780822754,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.325328826904297,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.495985984802246,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 10.666644096374512,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.565328598022461,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 12.75732421875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.042652130126954,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.362653732299806,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.554649353027345,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 16.78931999206543,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.002653121948243,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.237323760986329,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.535985946655275,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 17.91997718811035,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.709320068359376,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 26.858661651611329,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.029319763183595,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.19997787475586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.370656967163087,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.647981643676759,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.797325134277345,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 27.967981338500978,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.202653884887697,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.458662033081056,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.62932014465332,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 28.927982330322267,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.098661422729493,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.397323608398439,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.695985794067384,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 29.86664390563965,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.037324905395509,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.20798110961914,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.7199764251709,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 30.933311462402345,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.189319610595704,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.70131492614746,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 31.87199592590332,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.06399154663086,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.255985260009769,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 32.68265151977539,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.19464874267578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.36532974243164,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.535987854003909,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 33.74932098388672,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.02664566040039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 34.73065948486328,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.029319763183597,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.19997787475586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.58399200439453,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 35.8613166809082,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.0319938659668,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.26664352416992,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 36.69330978393555,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.03464889526367,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.26932144165039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.52532958984375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.695987701416019,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 37.86664581298828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.037322998046878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.31464767456055,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.52798080444336,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.69866180419922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 38.869319915771487,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.125328063964847,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.317325592041019,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.722652435302737,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 39.893310546875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.06399154663086,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.21331024169922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.53330993652344,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.7039909362793,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 40.87464904785156,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.38664245605469,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.706642150878909,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 41.855987548828128,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.02664566040039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.261314392089847,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.4319953918457,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 42.73065948486328,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.34931945800781,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 43.8613166809082,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.0319938659668,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.20265197753906,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.415985107421878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 44.69330978393555,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.39732360839844,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 45.695987701416019,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.037322998046878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.25065612792969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.52798080444336,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.69866180419922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 46.933311462402347,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.701316833496097,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 47.93598556518555,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.04798126220703,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.34664535522461,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.709320068359378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 50.92265319824219,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.19997787475586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.541316986083987,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.797325134277347,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 51.96798324584961,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.11732482910156,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.37331008911133,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.52265167236328,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 52.863990783691409,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.3759880065918,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.5466423034668,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 53.86664581298828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.037322998046878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.22932052612305,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.42131423950195,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.634647369384769,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 54.869319915771487,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.01866149902344,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.1893196105957,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.59465026855469,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 55.85065841674805,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.02131652832031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.36265182495117,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 56.6186637878418,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.023990631103519,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.19464874267578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.36532974243164,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 57.535987854003909,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.02664566040039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.389320373535159,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.709320068359378,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 58.87997817993164,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.60532760620117,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 59.8613166809082,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.0319938659668,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.22399139404297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 60.69330978393555,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.03464889526367,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.20532989501953,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.35464859008789,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.61065673828125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 61.86664581298828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.037322998046878,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.20798110961914,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.357322692871097,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.50664520263672,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 62.71997833251953,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.03997802734375,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.1893196105957,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 63.53065872192383,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.04265594482422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.21331024169922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.53330993652344,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.70398712158203,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 64.89598846435547,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.08798217773438,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.30131530761719,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.5359878540039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 65.72798156738281,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.02664184570313,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.26131439208985,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.51732635498047,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 66.68798065185547,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.0293197631836,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.28533172607422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.43464660644531,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.69065856933594,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 67.86131286621094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 68.03199768066406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 68.20265197753906,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 68.69331359863281,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.05598449707031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.37598419189453,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 69.54664611816406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.03732299804688,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.2719955444336,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.52798461914063,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.69866180419922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 70.89065551757813,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.7013168334961,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 71.87199401855469,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.02131652832031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.2773208618164,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.53330993652344,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.70398712158203,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 72.87464904785156,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.13066101074219,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.30131530761719,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.4506607055664,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.7066421508789,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 73.85598754882813,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.19732666015625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.70932006835938,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 74.87997436523438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.0293197631836,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.1999740600586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.58399200439453,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.75464630126953,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 75.96797943115235,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.20265197753906,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.35199737548828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.52265167236328,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.69331359863281,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 76.927978515625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.18399047851563,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.35464477539063,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.69598388671875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 77.97331237792969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.3573226928711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.52798461914063,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.69866180419922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 78.86931610107422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 79.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 79.72265625,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 80.04265594482422,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 80.21331024169922,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 80.70398712158203,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 80.93865966796875,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 81.19464874267578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 81.36532592773438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 81.55732727050781,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.02664184570313,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.36798095703125,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.53866577148438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.68798065185547,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 82.9439926147461,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.1999740600586,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.54131317138672,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.79732513427735,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 83.96797943115235,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.3733139038086,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.5653305053711,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 84.8639907836914,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.37598419189453,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.54664611816406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 85.86664581298828,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.03732299804688,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.25065612792969,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.42131805419922,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.6559829711914,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 86.86931610107422,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.06131744384766,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.35997772216797,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.59465026855469,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 87.85065460205078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 88.02131652832031,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 88.36265563964844,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 88.63997650146485,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.02399444580078,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.19464874267578,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.36532592773438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 89.5359878540039,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.02664184570313,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.38932037353516,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.70932006835938,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 90.87997436523438,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 91.37065887451172,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 91.60533142089844,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 91.86131286621094,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.03199768066406,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.22399139404297,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 92.69331359863281,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 93.0346450805664,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 93.20532989501953,
+            "low": 0,
+            "mid": 1,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 93.37598419189453,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        },
+        {
+            "TimeStamp": 93.56798553466797,
+            "low": 1,
+            "mid": 0,
+            "high": 0,
+            "spawned": false
+        }
+    ]
+}
